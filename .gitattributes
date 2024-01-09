@@ -1,0 +1,2 @@
+Mask/2010_10_23-2011_04_01Mask.tif filter=lfs diff=lfs merge=lfs -text
+NDVI/2010_10_23-2011_04_01NDVI.tif filter=lfs diff=lfs merge=lfs -text
